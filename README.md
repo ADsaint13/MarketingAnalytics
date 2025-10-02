@@ -17,7 +17,7 @@ This is an end-to-end data analytics project for the online retailer **"ShopEasy
 
 ### 1. ETL & Cleaning
 - Restored and cleaned raw data from a SQL Server (.bak) backup.  
-- Used T-SQL scripts to normalize and prepare the dataset for analysis.  
+- Used T-SQL scripts to normalise and prepare the dataset for analysis.  
 
 ### 2. Data Enrichment
 - Performed **sentiment analysis** on customer reviews.  
@@ -25,10 +25,10 @@ This is an end-to-end data analytics project for the online retailer **"ShopEasy
 
 ### 3. Visualization
 - Built a **dynamic, interactive dashboard** in Power BI.  
-- Implemented **DAX measures** to track KPIs and visualize key business trends.  
+- Implemented **DAX measures** to track KPIs and visualise key business trends.  
 
 ### 4. Reporting
-- Summarized findings and provided **data-driven recommendations** in a final presentation for stakeholders.  
+- Summarised findings and provided **data-driven recommendations** in a final presentation for stakeholders.  
 
 ---
 
@@ -38,8 +38,8 @@ This is an end-to-end data analytics project for the online retailer **"ShopEasy
 
 **Recommendations:**
 1. Focus marketing spend on high-performing products during their seasonal peaks.  
-2. Revitalize content strategy to improve engagement.  
-3. Implement a feedback loop to systematically address issues from customer reviews.  
+2. Revitalise content strategy to improve engagement.  
+3. Implement a feedback loop to address issues from customer reviews systematically.  
 
 ---
 
@@ -50,3 +50,25 @@ This is an end-to-end data analytics project for the online retailer **"ShopEasy
 4. **View Dashboard:** Open the `.pbix` file in Power BI and refresh the data sources to point to your local database.  
 
 ---
+## 📸 Dashboard
+
+### 🏠Overview
+![Overview view](https://github.com/ADsaint13/MarketingAnalytics/blob/main/Overview.png)
+
+---
+
+### 💰Conversion Details
+![Conversion Details](https://github.com/ADsaint13/MarketingAnalytics/blob/main/Conversion%20Details.png)
+
+---
+
+### 📈 Social Media Details
+![Social Media Details](https://github.com/ADsaint13/MarketingAnalytics/blob/main/Social%20Media%20Details.png)
+
+---
+
+### 📣 Customer Review Details
+![Customer Review Details](https://github.com/ADsaint13/MarketingAnalytics/blob/main/Customer%20Review%20Details.png)
+
+---
+
